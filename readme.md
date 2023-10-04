@@ -1,4 +1,4 @@
-# Fe: Jai port of (parts of) iron
+# Fe26: Jai port of (parts of) iron
 
 This repository contains a Jai port of parts of [Hapi’s `iron`](https://github.com/hapijs/hapi) cryptography library.
 
